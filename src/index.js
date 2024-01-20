@@ -4,6 +4,7 @@ import connectDB from "./db/index.js";
 //new recently used syntax not included in offcial document
 import dotenv from "dotenv"
 import {app} from "../src/app.js"
+
 dotenv.config({
   path:'E:\Main_web_learning\Backend_learning\.env'
 })
