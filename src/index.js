@@ -6,7 +6,7 @@ import dotenv from "dotenv"
 import {app} from "../src/app.js"
 
 dotenv.config({
-  path:'E:\Main_web_learning\Backend_learning\.env'
+  path:'E:/Main_web_learning/Backend_learning/.env'
 })
 
 
